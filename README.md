@@ -1,11 +1,11 @@
-AngularJS1 Directive Template Demo
-==================================
+AngularJS1 Directive Template Url Demo
+======================================
 
-Directive template will replace the DOM defined in HTML.
+Use template from a standalone template file.
 
 ```
 npm install
-open index.html
+http-server . -c-1 -o
 ```
 
 ![demo](./images/demo.jpg)
